@@ -1,4 +1,4 @@
-<h1 align="center"><img src="./docs/logo.png" alt="Ecoleta" /></h1>
+<h1 align="center"><img src="./assets/logo.png" alt="Ecoleta" /></h1>
 <p align="center">Project developed in Next Level Week #01</p>
 <p align="center">
   <a href="https://nodejs.org/en/">
