@@ -11,7 +11,7 @@
     <img src="https://img.shields.io/static/v1?label=React&message=Native&color=blue?style=plastic&logo=React" alt="React-Native" />
   </a>
 </p>
-<p align="center"><img src="./docs/capa.png" /></p>
+<p align="center"><img src="./assets/capa.png" /></p>
 
 # Summary
 
