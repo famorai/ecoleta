@@ -1,5 +1,5 @@
 <h1 align="center"><img src="./assets/logo.png" alt="Ecoleta" /></h1>
-<p align="center">Project developed in Next Level Week #01</p>
+<p align="center">Project developed from celebration of the environment 2020</p>
 <p align="center">
   <a href="https://nodejs.org/en/">
     <img src="https://img.shields.io/static/v1?label=Node&message=JS&color=blue?style=plastic&logo=Node.js" alt="NodeJS" />
@@ -61,7 +61,7 @@ yarn dev ou npm dev
 ### :exclamation: Installation - Front-End (Web Application)
 To start the **Frontend** of React use the commands:
 ```bash
-cd web
+cd ecoweb
 yarn install ou npm install
 yarn start ou npm start
 ```
@@ -73,7 +73,7 @@ To view the mobile application with React Native, first you need to put the IP o
 ```bash
 # You do NOT need to run the bottom line if you already have Expo (CLI) installed
 yarn global add install expo-cli
-cd mobile
+cd ecomobile
 yarn install
 yarn start
 ```
